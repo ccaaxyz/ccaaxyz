@@ -22,8 +22,8 @@ _This is an example GitHub account._
 ### Creating an account
 
 - If you don't have an existing account then common practice is to use your UCL **_userid_**
-- [Create a GitHub Account](https://wiki.ucl.ac.uk/display/DP/Create+a+GitHub+Account)
-- [Link Your GitHub Account with the UCL Organisation](https://wiki.ucl.ac.uk/display/DP/Link+Your+GitHub+Account+with+the+UCL+Organization)
+- [Create a GitHub Account](https://wiki.ucl.ac.uk/display/DP/Create+a+GitHub+Account) [^1]
+- [Link Your GitHub Account with the UCL Organisation](https://wiki.ucl.ac.uk/display/DP/Link+Your+GitHub+Account+with+the+UCL+Organization) [^1]
 - Add your name to make it easier for others to find your account [Public Profile -> Name](https://github.com/settings/profile)
 
 ### Optional extra configuration
@@ -35,6 +35,8 @@ _This is an example GitHub account._
 
 ### Links
 
-- [UCL ISD Organisation](https://github.com/ucl-isd)
+- [UCL ISD Organisation](https://github.com/ucl-isd) [^1]
 - [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world)
 - [GitHub Skills](https://skills.github.com/)
+
+[^1]: UCL login required
