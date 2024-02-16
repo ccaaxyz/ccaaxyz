@@ -33,6 +33,12 @@ _This is an example GitHub account._
 - [Add an SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh) _- recommended_
 - [Set your commit email address](https://docs.github.com/en/enterprise-server@3.3/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address) _- recommended to use your full UCL email alias_
 
+### GitHub Education Benefits
+
+- Apply for [GitHub Education](https://education.github.com/benefits) Teacher status
+- Get [GitHub Copilot](https://github.com/settings/copilot)
+- Get [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)
+
 ### Links
 
 - [UCL ISD Organisation](https://github.com/ucl-isd) [^1]
