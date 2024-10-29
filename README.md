@@ -22,8 +22,8 @@ _This is an example GitHub account._
 ### Creating an account
 
 - If you don't have an existing account then common practice is to use your UCL **_userid_**
-- [Create a GitHub Account](https://wiki.ucl.ac.uk/display/DP/Create+a+GitHub+Account) [^1]
-- [Link Your GitHub Account with the UCL Organisation](https://wiki.ucl.ac.uk/display/DP/Link+Your+GitHub+Account+with+the+UCL+Organization) [^1]
+- [Create a GitHub Account](https://liveuclac.sharepoint.com/:u:/r/sites/ISDDevOpsPlatform/SitePages/DP-Create-a-GitHub-Account-202343266.aspx?csf=1&web=1&e=zaPssx) [^1]
+- [Link Your GitHub Account with the UCL Organisation](https://liveuclac.sharepoint.com/:u:/r/sites/ISDDevOpsPlatform/SitePages/DP-Link-Your-GitHub-Account-with-the-UCL-Organization-202343296.aspx?csf=1&web=1&e=ZT4w6K) [^1]
 - Add your name to make it easier for others to find your account [Public Profile -> Name](https://github.com/settings/profile)
 
 ### Optional extra configuration
